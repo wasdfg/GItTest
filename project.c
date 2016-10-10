@@ -2,6 +2,6 @@
 
 int main(void) {
 
-dfd
+printf("changgong shit");
 	return 0;
 }
